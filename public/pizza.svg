@@ -1,0 +1,12 @@
+<svg width="340" height="260" viewBox="0 0 340 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pizza">
+  <path d="M20 244C52 106 164 22 324 20C270 126 165 208 20 244Z" fill="#f2c879"/>
+  <path d="M20 244C52 106 164 22 324 20" stroke="#8f4a1b" stroke-width="22" stroke-linecap="round"/>
+  <path d="M66 211C101 112 186 59 284 45C240 112 168 177 66 211Z" fill="#fff1bf"/>
+  <circle cx="148" cy="139" r="19" fill="#b83224"/>
+  <circle cx="214" cy="88" r="16" fill="#b83224"/>
+  <circle cx="103" cy="185" r="17" fill="#b83224"/>
+  <circle cx="185" cy="163" r="13" fill="#b83224"/>
+  <path d="M132 112C146 96 164 92 185 101" stroke="#31502f" stroke-width="9" stroke-linecap="round"/>
+  <path d="M221 137C239 130 255 133 268 147" stroke="#31502f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M90 149C105 138 119 137 133 147" stroke="#31502f" stroke-width="8" stroke-linecap="round"/>
+</svg>
